@@ -25,5 +25,6 @@ function choushu($num){
 	}
 }
 choushu(100);
+20220820
 
  ?>
